@@ -1,5 +1,5 @@
 ### HOLA MUNDO WEB 👋
-Aquí le cambia todo lo que quiera de lo que le gusta
+iniciando a utilizar GITHUB
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
